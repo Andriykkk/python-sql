@@ -195,7 +195,7 @@ def main():
     session = Session()
 
     try:
-        # create_tables()
+        create_tables()
 
         # insert_data(session)
 
